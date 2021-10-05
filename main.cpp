@@ -13,5 +13,13 @@ int main(){
   dncckedc;
   cnjdncke;
   dndcfkec;
+  jirjfor
+  fffmrkfmk
+  rnfnurnf
+  jrnfirnf
+  nfieeife
+  fifrifjri\irjrjfijr
+  njrfnjr
+  
   return 0;
 }
