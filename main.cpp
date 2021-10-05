@@ -8,6 +8,10 @@ struct Node{
 };
 
 int main(){
-  
+  cout<<"aysheri";
+  jncjkekl;
+  dncckedc;
+  cnjdncke;
+  dndcfkec;
   return 0;
 }
