@@ -1,0 +1,3 @@
+Q) Take 2 number and output the product of the two
+Eg: I/P 2 3
+    O/P 6
